@@ -1,0 +1,14 @@
+<DOCTYPE! html>
+<html>
+	<head>
+			<title>Learning html style and colors</title>
+	</head>
+	<body>
+			<h1 style ="text-align:center; color:tomato">Bangladesh</h1>
+			<p style="font-family:courier; font-size:60px">In life allah give us several oppertunities to be successfull in our work or aim</p>
+			
+	
+	
+	</body>
+	
+</html>
